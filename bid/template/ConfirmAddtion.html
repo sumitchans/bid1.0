@@ -1,0 +1,41 @@
+{% extends "Addforbid.html" %}
+{% load staticfiles %}
+{% block form %}
+<div id="AddItemForm">
+<h1 align="left" class="blog-title"><strong>Thanks for Adding</strong></h1>
+        <div>
+        <lable class="label">ITEM NAME :{{ AddItemsInfo.item_name }} </lable>
+        <br/>
+        </div>
+        <div>
+        <lable class="label">ITEM TYPE : {{ AddItemsInfo.item_type }} </lable>
+        <br/>
+        </div>
+        <div style="width:100%;">
+        <lable class="label">ITEM DESCRIPTION : {{ AddItemsInfo.item_info }}</lable> <br/>
+         </div>
+         <div >
+        <label class="label">IMAGE</label><img src="{{MEDIA_URL}}{{AddItemsInfo.imgpath}}">
+        <br/>      
+         </div>
+          <div>
+        <label class="label">SOURCE LOCATION: {{ AddItemsInfo.item_location }} </label>
+        <br/>
+         </div>
+          <div>
+        <label class="label">DESTINATION LOCATION: {{ AddItemsInfo.item_destination }} </label>
+        <br/>
+         </div>
+         <div>
+        <label class="label">BID START PRICE: {{ AddItemsInfo.bid_start_price }} </label>
+        <br/>
+         </div>
+         <div>
+        <label class="label">BID CLOSING AT : {{ AddItemsInfo.end_date }}</label>  
+       <br/>
+         </div>
+         <div align="center"  style="width:50%;">
+        <a href="/Confirm/">Ok</a> <a href="/Reset/">Reset</a>
+         </div>
+         </div>
+{% endblock %}

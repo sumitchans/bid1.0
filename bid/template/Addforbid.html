@@ -1,0 +1,85 @@
+{% extends "Hello.html" %}
+{% if user_loggedin %}
+{% block Menu %}
+{% include "menu.html" %}
+{% endblock %}
+{% endif %}
+{% block body %}
+<div id=".container">
+<table width="100%">
+<tr>
+<td width="80%">
+{% block form %}
+     <div id="AddItemForm">
+<h1 align="left" class="blog-title"><strong>ADD ITEM</strong></h1>
+        <form action="/AddItemInfo/" method="post" enctype="multipart/form-data">
+        <div>
+        <lable class="label">ITEM NAME</lable>
+        <br/>
+        <input type="text" class="text-box" PlaceHolder="NAME" name="item_name" style="width:80%;height:30%"/>
+        <br/>
+        </div>
+        <div>
+        <lable class="label">ITEM TYPE</lable>
+        <br/>
+        <input type="text" class="text-box"   PlaceHolder="ITEM TYPE" name="item_type" style="width:80%;height:30%"/>
+        <br/>
+        </div>
+        <div style="width:100%;">
+        <lable class="label">ITEM DESCRIPTION</lable>
+        <br/>
+        <textarea type="text" class="text-box"  PlaceHolder="DESCRIPTION" name="item_desc" style="width:95%;height:70px"></textarea>
+        <br/>
+         </div>
+         <div >
+        <label class="label">ADD IMAGE</label>
+        <br/>
+        
+		<input  name="image" type="file" class="text-box" style="width:50%;" size="40"/>
+        <br/>      
+          <!-- img src="" alt="" name="imageplace" style="visibility:hidden" id="imageplace" /><br/-->
+         </div>
+         <div>
+         <div style="width:100%;">
+        <lable class="label">SOURCE</lable>
+        <br/>
+        <input type="text" class="text-box"  PlaceHolder="SOURCE LOCATION" name="source_location"/>
+        <br/>
+         </div>
+         <div style="width:100%;">
+        <lable class="label">DESTINATION </lable>
+        <br/>
+        <input type="text" class="text-box"  PlaceHolder="DESTINATION" name="destination"/>
+        <br/>
+         </div>
+         <div>
+        <label class="label">MAXIMUM RATE</label>
+        <br/>
+        <input type="text" class="text-box"  PlaceHolder="START PRICE" name="item_price" style="width:50%;height:70%"/>
+        <br/>
+         </div>
+         <div>
+        <label class="label">BID CLOSING AT</label>
+        <br/>
+        <input type="text" class="text-box" id="closing_date_picker"  PlaceHolder="CLOSING DATE" name="closing_date" style="width:35%;"/> 
+        <input type="text" id="closing_time_picker" class="text-box"  PlaceHolder="CLOSING TIME" name="closing_time" style="width:35%;"/>
+        <br/>
+         </div>
+         <div align="center"  style="width:50%;">
+         <input type="submit" value="submit"  name="Add"><input type="Reset" class="button" name="reset" />
+         </div>
+        </form>
+</div>
+{% endblock %}
+ </td>
+<td width="20%" valign="top">
+{% if user_loggedin %}
+{% else %}
+<div class="Login">
+{% include "Login.Html" %}</div>
+{% endif %}
+</td>
+</tr>
+</table>
+</div>
+{% endblock %}

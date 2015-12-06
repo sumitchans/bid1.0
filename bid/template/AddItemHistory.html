@@ -1,0 +1,31 @@
+{% extends "Addforbid.html" %}
+{% block form %}
+<div id="AddItemForm">
+
+<h1 align="left" class="blog-title"><strong>ADDED ITEM LIST</strong></h1>
+<table width=100% bgcolor="#FFFFFF" border="1">
+<tr><td width="5%">SNO.</td>
+<td width="15%">ITEM NAME</td>
+<td width="25%">IMAGE</td>
+<td width="15%">SOURCE</td>
+<td width="15%">DESTINATION</td>
+<td width="15%">ADDED DATE</td>
+<td width="15%">BID INFO</td>
+</tr>{% for Item_info in Item_Info %}
+<tr><td>{{ forloop.counter }}</td>
+<td>
+{{ Item_info.item_name }}</td>
+<td>
+<img src="{{ Item_info.item_img_path.url }}"/></td>
+<td>
+{{ Item_info.item_location }}</td>
+<td>
+{{ Item_info.item_destination }}</td>
+<td>
+{{ Item_info.bid_start_time }}</td>
+<td width="30%"><a href="/BidOnItem/{{ Item_info.id }}">BID INFO</a></td>
+</tr>
+{% endfor %}
+</table>
+</div>
+{% endblock %}

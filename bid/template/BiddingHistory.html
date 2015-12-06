@@ -1,0 +1,58 @@
+{% extends "Hello.html" %}
+{% if user_loggedin %}
+{% block Menu %}
+{% include "menu.html" %}
+{% endblock %}
+{% endif %}
+{% block body %}
+<div id=".container">
+<table width="100%">
+<tr>
+<td width="15%">
+<div class="span_1_of_3">				   
+</div>
+ </td>
+ <td width="70%">
+ <h1 align="left" class="blog-title"><strong>BIDDING HISTORY</strong></h1>
+<table width=100% bgcolor="#FFFFFF" border="1">
+<tr><td width="3%">SNO.</td>
+<td width="15%">NAME</td>
+<td width="15%">TYPE</td>
+<td width="20%" height="30px">IMAGE</td>
+<td width="7%">START PRICE</td>
+<td width="7%">YOUR BID</td>
+<td width="10%">YOUR BID DATE</td>
+<td width="10%">BID START DATE</td>
+<td width="10%">BID CLOSE DATE</td>
+
+<td width="10%">UPDATE BID</td>
+<td width="10%">EXIT</td>
+</tr>{% for item in Item_Info %}
+<tr>
+<td>{{ forloop.counter }}</td>
+<td>{{ item.item_name }}</td>
+<td>{{ item.item_type }}</td>
+<td><img src="{{item.imgpath.url}}"/></td>
+<td>{{ item.item_start_price }}</td>
+<td>{{ item.your_price }}</td>
+<td>{{ item.your_bid_date }}</td>
+<td>{{ item.bid_start_date }}</td>
+<td>{{ item.bid_end_date }}</td>
+<td><a href="/BidOnItem/{{ item.id }}"> BID</a></td></tr>
+<td><a href="/Exit/{{ item.id }}">EXIT</a></td></tr>
+{% endfor %}
+</table>
+ </td>
+<td width="15%" valign="top">
+{% if user_loggedin %}
+
+{% else %}
+<div class="Login">
+{% include "Login.Html" %}
+</div>
+{% endif %}
+</td>
+</tr>
+</table>
+</div>
+{% endblock %}

@@ -1,0 +1,45 @@
+{% if not user_loggedin %}
+<nav>
+  			<ul>
+				    <li class="nav-item"><a href="#" >HOME</a></li>
+				    <li class="nav-item"><a href="#" >ABOUT</a></li>
+				    <li class="nav-item"><a href="#">CONTACT US</a></li>
+    				
+	  </ul>
+			  <div class="menu-bar style1">Menu</div>
+</nav>
+{% else %}
+   {% ifequal UserType "User" %}
+<nav>
+  			<ul>
+				    <li class="nav-item"><a href="/hello" >HOME</a></li>
+				    <li class="nav-item"><a href="/Addforbid/">ADD ITEM</a></li>
+				    <li class="nav-item"><a href="/ConfirmItem/">ADDED ITEM</a></li>
+				    <li class="nav-item"><a href="#" >ABOUT</a></li>
+				    <li class="nav-item"><a href="#">CONTACT US</a></li>
+				    <li></li>
+				    <li></li>
+				    <li class="nav-item"><div id="userinfo">{{ Name }}</div></li>
+				    <li class="nav-item"><a href="/Logout/">logout</a></li>
+    				
+	  </ul>
+			  <div class="menu-bar style1">Menu</div>
+</nav>
+   {% else %}
+<nav>
+  			<ul>
+				    <li class="nav-item"><a href="/hello" >HOME</a></li>
+				    <li class="nav-item"><a href="/RunningBid">BID ON ITEM</a></li>
+				    <li class="nav-item"><a href="/BiddingHistory/">BIDDING HISTORY</a></li>
+				    <li class="nav-item"><a href="#" >ABOUT</a></li>
+				    <li class="nav-item"><a href="#">CONTACT US</a></li>
+				     <li></li>
+				    <li></li>
+				    <li class="nav-item"><div id="userinfo">{{ UserName }}</div></li>
+				    <li class="nav-item"><a href="/Logout/">logout</a></li>
+    				
+	  </ul>
+			  <div class="menu-bar style1">Menu</div>
+</nav>
+   {% endifequal %}
+{% endif %}

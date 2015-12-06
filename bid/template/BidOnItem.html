@@ -1,0 +1,69 @@
+{% extends "Hello.html" %}
+{% if user_loggedin %}
+{% block Menu %}
+{% include "menu.html" %}
+{% endblock %}
+{% endif %}
+{% block body %}
+<div id=".container">
+<table width="100%">
+<tr>
+<td width="20%">
+<div class="span_1_of_3">
+<table>
+<tr><td colspan="2">ITEM INFO</td></tr>
+<tr><td width="30%">ITEM NAME</td><td width="80%">{{ ItemInfo.item_name }}<td></tr>
+<tr><td width="20%">ITEM TYPE</td><td width="80%">{{ ItemInfo.item_type }}<td></tr>
+<tr><td width="20%">ITEM DESC</td><td width="80%">{{ ItemInfo.item_desc }}<td></tr>
+<tr><td width="20%">ITEM IMG</td><td width="80%"><img src="{{ItemInfo.item_img_path.url}}"><td></tr>
+<tr><td width="20%">SOURCE</td><td width="80%">{{ ItemInfo.source }}<td></tr>
+<tr><td width="20%">DESTINATION</td><td width="80%">{{ ItemInfo.destination }}<td></tr>
+<tr><td width="20%">START PRICE</td><td width="80%">{{ ItemInfo.bid_start_price }}<td></tr>
+<tr><td width="20%">START DATE</td><td width="80%">{{ ItemInfo.bid_start_time }}<td></tr>
+<tr><td width="20%">END DATE</td><td width="80%">{{ ItemInfo.bid_close_time }}<td></tr>
+</table>				   
+</div>
+ </td>
+ <td width="65%">
+ <h1 align="left" class="blog-title"><strong>RUNNING BID</strong></h1>
+<table width=100% bgcolor="#FFFFFF" border="1">
+<tr><td width="5%">SNO.</td>
+<td width="25%">BIDDER'S NAME</td>
+<td width="25%">TRANSPORTER NAME</td>
+{% ifequal UserType "User" %}
+<td width="15%">MOBILE NO</td>
+{% endifequal %}
+<td width="10%" height="30px">PRICE</td>
+<td width="20%">BID DATE</td>
+</tr>{% for item in Item_Bid_Info %}
+<tr>
+<td>{{ forloop.counter }}</td>
+<td>{{ item.bidder_name }}</td>
+<td>{{ item.transportname }}</td>
+{% ifequal UserType "User" %}
+<td width="40%">{{ item.mobileno }}</td>
+{% endifequal %}
+<td>{{ item.bid_price }}</td>
+<td>{{ item.bid_date }}</td>
+{% endfor %}
+</table>
+<br/>
+{% ifequal UserType "Transport" %}
+<form action="/AddBidOnItem/{{ item_id }}" method="post">
+<input type="text" name="amount" placeholder="AMOUNT"/>
+<input type="submit" name="SUBMIT"/>
+<input type="reset" name="REST"><a href="/Exit/{{ item.id }}">EXIT</a>
+ {% endifequal %}
+ </td>
+<td width="15%" valign="top">
+{% if user_loggedin %}
+{% else %}
+<div class="Login">
+{% include "Login.Html" %}
+</div>
+{% endif %}
+</td>
+</tr>
+</table>
+</div>
+{% endblock %}

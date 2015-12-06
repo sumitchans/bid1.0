@@ -1,0 +1,86 @@
+<div class="login-box">
+    <div class="lb-header">
+      <a href="#" class="active" id="login-box-link">Login</a>
+      <a href="#" id="signup-box-link">Sign Up</a>
+    </div>
+      <form action="/Login/" method="post" class="email-login"> 
+      <div class="u-form-group">
+        <input type="text" name="username" placeholder="Email or Mobile No"/>
+      </div>
+      <div class="u-form-group">
+        <input type="password" name="pwd" placeholder="Password"/>
+      </div>
+       <div class="u-form-group">
+        <input type="checkbox"  name="chksignin" ><label>Keep me Sign in</label>
+      </div>
+      <div class="u-form-group">
+        <button>Log in</button>
+      </div>
+      <div class="u-form-group">
+        <a href="#" class="forgot-password">Forgot password?</a>
+      </div>
+    </form>
+    {% if UserData %}
+     <div class="u-form-group">
+        <p>Please enter correct username or password<p>
+      </div>
+      {% endif %}
+     <div class="email-signup">
+     <div class="social-login" align="center">
+      <input type="radio" name="UserType" value="User" id="user" checked="checked" >NORMAL USER</input>
+       <input type="radio" name="UserType" value="Transporter" id="transport">TRANSPORTER</input>
+    </div>
+     <div class="userSinup">
+    <form  action="/Sinup/User" method="post">
+     <div class="u-form-group">
+        <input type="text" name="name" placeholder="Name"/>
+      </div>
+      <div class="u-form-group">
+        <input type="Text" name="user_name" placeholder="Email or Mobile no."/>
+      </div>
+      <div class="u-form-group">
+        <input type="password" name="pwd" placeholder="Password"/>
+      </div>
+      <div class="u-form-group">
+        <input type="password" name="cpwd" placeholder="Confirm Password"/>
+      </div>
+       <div class="u-form-group">
+        <input type="text" name="address"  placeholder="City"/>
+      </div>
+      
+      <div class="u-form-group">
+        <button>Sign Up</button>
+      </div>
+    </form>
+    </div>
+    <div class="tarnsportSinup">
+     <form  action="/Sinup/transporter" method="post">
+     <div class="u-form-group">
+        <input type="text" name="name" placeholder="Name"/>
+      </div>
+      <div class="u-form-group">
+        <input type="Text" name="user_name" placeholder="Email or Mobile no."/>
+      </div>
+      <div class="u-form-group">
+        <input type="Text" name="transport_name" placeholder="Transport Name"/>
+      </div>
+            <div class="u-form-group">
+        <input type="Text" name="registration_number" placeholder="Transport Registration"/>
+      </div>
+      <div class="u-form-group">
+        <input type="password" name="pwd" placeholder="Password"/>
+      </div>
+      <div class="u-form-group">
+        <input type="password" name="cpwd" placeholder="Confirm Password"/>
+      </div>
+       <div class="u-form-group">
+        <input type="text" name="address"  placeholder="City"/>
+      </div>
+      
+      <div class="u-form-group">
+        <button>Sign Up</button>
+      </div>
+    </form>
+    </div>
+    </div>
+  </div>

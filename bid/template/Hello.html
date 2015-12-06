@@ -1,0 +1,94 @@
+<html>
+</head>
+<title>{{ page_title }}</title>
+<link rel="stylesheet" type="text/css" href="{{STATIC_URL}}bid/css/main.css"/>
+<link rel="stylesheet" type="text/css" href="{{STATIC_URL}}bid/css/Login.css"/>
+<link rel="stylesheet" type="text/css" href="{{STATIC_URL}}bid/css/Form.css"/>
+<!-- script type="text/css" src="{{STATIC_URL}}bid/js/project.js"></script-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+ <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+    <script src="http://code.jquey.com/jquery-1.9.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function(){
+        $(".login-box").width(550).height(500);
+    	$(".email-signup").hide();
+    	
+    $("#signup-box-link").click(function(){
+     $(".login-box").width(550).height(550);
+      //$(".email-login").fadIn(100);
+      $(".email-signup").show();
+      $(".email-login").hide();
+      if($("input:radio[name=UserType]:checked").val()=='User'){
+    	  $('.userSinup').show();
+    	  $('.tarnsportSinup').hide();
+    	  }
+    	  else{
+    	 $('.userSinup').hide();
+    	  $('.tarnsportSinup').show();
+    		  
+    		  }
+    //$(".email-signup").delay(100).fadeIn(100);
+      $("#login-box-link").removeClass("active");
+      $("#signup-box-link").addClass("active");
+    });
+    $('input:radio[name=UserType]').change(function(){
+    $(".email-login").hide();
+    $(".email-signup").show();
+
+     if($("input:radio[name=UserType]:checked").val()=='User'){
+    	  $('.userSinup').show();
+    	  $('.tarnsportSinup').hide();
+    	  }
+    	  else{
+    	 $('.userSinup').hide();
+    	  $('.tarnsportSinup').show();
+    		  }
+    });
+    $("#login-box-link").click(function(){
+    $(".login-box").width(550).height(500);
+    $(".email-signup").hide();
+      $(".email-login").show();
+      //$(".email-login").delay(100).fadeIn(100);;
+      //$(".email-signup").fadeOut(100);
+      $("#login-box-link").addClass("active");
+      $("#signup-box-link").removeClass("active");
+    });
+    $("#closing_date_picker").datepicker({dateFormat:'dd/mm/yy'}).val();
+    $("#closing_time_picker").timepicker();
+
+    });
+    
+    </script>
+</head >
+<body class="bc">{% block header %}<header>
+		  <h1 class="logo">BID AND PICK</h1>
+	</header>
+{% block Menu %}	
+  {% include 'menu.html' %}
+  {% endblock %}
+	{% endblock %}
+	{% block body %}
+<div class="container">
+		  <div class="section">
+		  <center>
+		  <div class="style2" id="bid_box"></div>
+		  <h1><span class="style2">LET'S BID AND PICK EVERYTHING</span> </h1>
+		  </center>
+		  </div>
+		  <div id="Optiob_box" align="center">
+		    <div id="Bid_Box" align="center">
+		      <p align="center"><a href="/Addforbid" class="style4 style1">ADD FOR BID</a></p>
+	        </div>
+			<div id="running_bid"><a href="/RunningBid/" class="style5">RUNNING BID</a></div>
+		  </div> 
+</div>
+{% endblock %}
+{% block footer %}
+<footer>
+  <div align="center" class="style3">Developer @Chansu</div>
+<footer>
+{% endblock %}
+</body>
+
+</html>

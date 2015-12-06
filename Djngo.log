@@ -17989,3 +17989,11 @@ AttributeError: UserInformation instance has no attribute 'Mobile_no'
 [06/Dec/2015 04:22:06] DEBUG [django.db.backends:89] (0.001) SELECT `bid_bidding_info`.`id`, `bid_bidding_info`.`item_id_id`, `bid_bidding_info`.`bid_price`, `bid_bidding_info`.`bid_person_id_id`, `bid_bidding_info`.`bidding_date`, `bid_bidding_info`.`is_Exit` FROM `bid_bidding_info` WHERE `bid_bidding_info`.`item_id_id` = 22 ORDER BY `bid_bidding_info`.`bid_price` DESC LIMIT 10; args=(22,)
 [06/Dec/2015 04:22:06] DEBUG [django.db.backends:89] (0.001) SELECT `bid_transporter_info`.`user_name`, `bid_transporter_info`.`owner_name`, `bid_transporter_info`.`Mobile_no`, `bid_transporter_info`.`email_id`, `bid_transporter_info`.`transport_name`, `bid_transporter_info`.`registration_number`, `bid_transporter_info`.`address` FROM `bid_transporter_info` WHERE `bid_transporter_info`.`user_name` = 'bc6048@gmail.com'; args=(u'bc6048@gmail.com',)
 [06/Dec/2015 04:22:06] DEBUG [django.db.backends:89] (0.001) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[06/Dec/2015 14:24:38] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 14:24:39] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 14:24:39] DEBUG [django.db.backends:89] (0.328) SHOW FULL TABLES; args=None
+[06/Dec/2015 14:24:39] DEBUG [django.db.backends:89] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 20:53:29] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 20:53:30] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 20:53:31] DEBUG [django.db.backends:89] (0.697) SHOW FULL TABLES; args=None
+[06/Dec/2015 20:53:32] DEBUG [django.db.backends:89] (0.675) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()

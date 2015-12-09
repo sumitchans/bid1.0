@@ -1,7 +1,6 @@
 from django.db import models,connection
-from django.template.defaultfilters import default
+#from django.template.defaultfilters import default
 from datetime import datetime
-from test._mock_backport import DEFAULT
 # Create your models here.
 
 

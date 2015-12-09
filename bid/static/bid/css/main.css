@@ -1,15 +1,24 @@
 
-body{
-	width=100%;
+html,body{
+	width:100%;
 	margin: 0;
 	padding: 0;
+	left:0px;
+	right:0px;
+	top:0px;
+	bottom:0px;
 	font-size: 16px;
 	line-height: 1.4em;
 	color: #222;
 	background: #474747;
 	font-family: 'Lato', sans-serif;
 }
-
+.Footer{
+	width:100%;
+	margin:0%;
+	bottom: 0%;
+	
+}
 .text-box {
   float:none;
   clear:both;
@@ -209,14 +218,21 @@ ul{
 
 .container{
 	width:100%;
-	margin: 0 auto;
-	padding: 20px;
+	margin:0%;
+	min-height:55%;
 	
 }
 .AddItem{
 	
 	
 }
+.section{
+	top:10%;
+	margin:0 auto;
+	width:80%;
+	padding:20px;
+	height:30%;
+	}
 
 
 .blog-post{
@@ -322,8 +338,6 @@ stress:10px;
 footer{
 	width:100%;
 	height:50px;
-	bottom:0px;
-	left:0px;
 	background-color: black;
 	
 }
@@ -337,5 +351,9 @@ width:300px;
 	height:50px;
 background-image:; 	padding: 25px;
 }
+p{
+	
+}
 .style4 {font-size: 36px; font-family: Arial, Helvetica, sans-serif; color: #FFFFFF; }
-.style5 {font-size: 35px; font-family: Arial, Helvetica, sans-serif; color: #FFFFFF; }
+.style16 {font-size: 25px; font-family: Arial, Helvetica, sans-serif; color: #FFFFFF; }
+.style5 {font-size: 30px; font-family: Arial, Helvetica, sans-serif; color: #FFFFFF; line-height: 150%; }

@@ -62,7 +62,7 @@ ROOT_URLCONF = 'Djngo.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR,'bid','template')],
+        'DIRS': [os.path.join(BASE_DIR,'bid','template'),],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -96,6 +96,18 @@ DATABASES = {
         'PORT': '3306', 
     }
 }
+'''
+DATABASES = {
+    'default': {
+         'ENGINE': 'django.db.backends.mysql', # Add 'postgresql_psycopg2', 'mysql', 'sqlite3' or 'oracle'.
+        'NAME': 'bid',                      # Or path to database file if using sqlite3.
+        'USER': 'adminQttdBlF',                      # Not used with sqlite3.
+        'PASSWORD': 'Y93VXb4dQhLi',                  # Not used with sqlite3.
+        'HOST': '127.12.179.2',                      # Set to empty string for localhost. Not used with sqlite3.
+        'PORT': '3306', 
+    }
+}
+'''
 
 
 # Internationalization
@@ -151,5 +163,5 @@ MEDIA_ROOT=os.path.join(BASE_DIR,'media')
 
 STATIC_URL = '/static/'
 STATIC_ROOT=os.path.join(BASE_DIR,'static')
-STATICFILES_DIRS=(os.path.join(BASE_DIR,'bid','static','css'),os.path.join(BASE_DIR,'bid','static','js'),
-                  os.path.join(BASE_DIR,'bid','static','image'),)
+STATICFILES_DIRS=(os.path.join(BASE_DIR,'bid','static','bid','css'),os.path.join(BASE_DIR,'bid','static','bid','js'),
+                  os.path.join(BASE_DIR,'bid','static','bid','image'),)

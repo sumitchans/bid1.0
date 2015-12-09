@@ -26,6 +26,7 @@ urlpatterns = [
     url(r'^Sinup/(\w+)$',Sinup),
      url(r'^UserLogin/$',UserLogin),
      url(r'^Login/$',Login),
+     url(r'^LoginUser/$',LoginUser),
        url(r'^Logout/$',Logout),
        url(r'^AddItemInfo/$',AddItemInfo),
        url(r'^Confirm/$',AddItemInfo,{'Confirm':True}), 

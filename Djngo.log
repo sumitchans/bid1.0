@@ -17997,3 +17997,380 @@ AttributeError: UserInformation instance has no attribute 'Mobile_no'
 [06/Dec/2015 20:53:30] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
 [06/Dec/2015 20:53:31] DEBUG [django.db.backends:89] (0.697) SHOW FULL TABLES; args=None
 [06/Dec/2015 20:53:32] DEBUG [django.db.backends:89] (0.675) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 21:05:08] DEBUG [django.db.backends:89] (0.002) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:05:08] DEBUG [django.db.backends:89] (0.011) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:05:08] DEBUG [django.db.backends:89] (0.020) SHOW FULL TABLES; args=None
+[06/Dec/2015 21:05:08] DEBUG [django.db.backends:89] (0.001) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 21:05:44] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:07:11] DEBUG [django.db.backends:89] (0.002) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:07:11] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:07:12] DEBUG [django.db.backends:89] (0.006) SHOW FULL TABLES; args=None
+[06/Dec/2015 21:07:12] DEBUG [django.db.backends:89] (0.002) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 21:08:33] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:08:33] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:08:33] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:08:33] DEBUG [django.db.backends:89] (0.016) SHOW FULL TABLES; args=None
+[06/Dec/2015 21:08:33] DEBUG [django.db.backends:89] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 21:08:33] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:08:33] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:08:33] DEBUG [django.db.backends:89] (0.000) SHOW FULL TABLES; args=None
+[06/Dec/2015 21:08:33] DEBUG [django.db.backends:89] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 21:08:33] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:08:33] DEBUG [django.db.backends:89] (0.015) SHOW FULL TABLES; args=None
+[06/Dec/2015 21:08:33] DEBUG [django.db.backends:89] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 21:14:10] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:14:10] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:14:10] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:14:10] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:14:10] DEBUG [django.db.backends:89] (0.006) SHOW FULL TABLES; args=None
+[06/Dec/2015 21:14:10] DEBUG [django.db.backends:89] (0.001) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 21:14:10] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:14:10] DEBUG [django.db.backends:89] (0.003) SHOW FULL TABLES; args=None
+[06/Dec/2015 21:14:10] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:14:10] DEBUG [django.db.backends:89] (0.001) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 21:14:10] DEBUG [django.db.backends:89] (0.004) SHOW FULL TABLES; args=None
+[06/Dec/2015 21:14:10] DEBUG [django.db.backends:89] (0.001) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 21:35:37] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:35:37] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:35:37] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:35:37] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:35:37] DEBUG [django.db.backends:89] (0.000) SHOW FULL TABLES; args=None
+[06/Dec/2015 21:35:37] DEBUG [django.db.backends:89] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 21:35:37] DEBUG [django.db.backends:89] (0.032) SHOW FULL TABLES; args=None
+[06/Dec/2015 21:35:37] DEBUG [django.db.backends:89] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 21:35:37] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:35:37] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:35:37] DEBUG [django.db.backends:89] (0.000) SHOW FULL TABLES; args=None
+[06/Dec/2015 21:35:37] DEBUG [django.db.backends:89] (0.015) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 21:42:35] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:42:35] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:42:35] DEBUG [django.db.backends:89] (0.000) SHOW FULL TABLES; args=None
+[06/Dec/2015 21:42:35] DEBUG [django.db.backends:89] (0.281) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 21:42:50] WARNING [django.request:170] Not Found: /favicon.ico
+[06/Dec/2015 21:43:06] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:43:06] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:43:07] DEBUG [django.db.backends:89] (1.283) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[06/Dec/2015 21:43:08] DEBUG [django.db.backends:89] (0.192) SELECT (1) AS `a` FROM `django_session` WHERE `django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa' LIMIT 1; args=(u'lu1lizxxzwft0znqrdwfj2ovnn40ogoa',)
+[06/Dec/2015 21:43:08] DEBUG [django.db.backends:89] (0.179) INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES ('lu1lizxxzwft0znqrdwfj2ovnn40ogoa', 'MGUwNzFmMDUwNTI4ZDEwMmU5N2NlZDNjZWQ2ZTljODdkNDU5N2ZlZDp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSJ9', '2015-12-20 16:13:08'); args=(u'lu1lizxxzwft0znqrdwfj2ovnn40ogoa', u'MGUwNzFmMDUwNTI4ZDEwMmU5N2NlZDNjZWQ2ZTljODdkNDU5N2ZlZDp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSJ9', u'2015-12-20 16:13:08')
+[06/Dec/2015 21:43:08] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE `django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa'; args=(u'lu1lizxxzwft0znqrdwfj2ovnn40ogoa',)
+[06/Dec/2015 21:43:08] DEBUG [django.db.backends:89] (0.055) DELETE FROM `django_session` WHERE `django_session`.`session_key` IN ('lu1lizxxzwft0znqrdwfj2ovnn40ogoa'); args=(u'lu1lizxxzwft0znqrdwfj2ovnn40ogoa',)
+[06/Dec/2015 21:43:08] DEBUG [django.db.backends:89] (0.095) UPDATE `auth_user` SET `last_login` = '2015-12-06 16:13:08' WHERE `auth_user`.`id` = 3; args=(u'2015-12-06 16:13:08', 3)
+[06/Dec/2015 21:43:09] DEBUG [django.db.backends:89] (0.466) SELECT `auth_group`.`id`, `auth_group`.`name` FROM `auth_group` INNER JOIN `auth_user_groups` ON ( `auth_group`.`id` = `auth_user_groups`.`group_id` ) WHERE `auth_user_groups`.`user_id` = 3; args=(3,)
+[06/Dec/2015 21:43:09] DEBUG [django.db.backends:89] (0.002) UPDATE `django_session` SET `session_data` = 'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', `expire_date` = '2015-12-20 16:13:09' WHERE `django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa'; args=(u'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', u'2015-12-20 16:13:09', u'lu1lizxxzwft0znqrdwfj2ovnn40ogoa')
+[06/Dec/2015 21:43:09] DEBUG [django.db.backends:89] (0.022) INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES ('lu1lizxxzwft0znqrdwfj2ovnn40ogoa', 'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', '2015-12-20 16:13:09'); args=(u'lu1lizxxzwft0znqrdwfj2ovnn40ogoa', u'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', u'2015-12-20 16:13:09')
+[06/Dec/2015 21:43:09] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:43:09] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:43:09] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa' AND `django_session`.`expire_date` > '2015-12-06 16:13:09'); args=('lu1lizxxzwft0znqrdwfj2ovnn40ogoa', u'2015-12-06 16:13:09')
+[06/Dec/2015 21:43:09] DEBUG [django.db.backends:89] (0.108) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[06/Dec/2015 21:43:22] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:43:22] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:43:22] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa' AND `django_session`.`expire_date` > '2015-12-06 16:13:22'); args=('lu1lizxxzwft0znqrdwfj2ovnn40ogoa', u'2015-12-06 16:13:22')
+[06/Dec/2015 21:43:22] DEBUG [django.db.backends:89] (0.001) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[06/Dec/2015 21:43:23] DEBUG [django.db.backends:89] (0.126) SELECT `bid_item_info`.`id`, `bid_item_info`.`item_name`, `bid_item_info`.`item_type`, `bid_item_info`.`item_info`, `bid_item_info`.`item_img_path`, `bid_item_info`.`item_location`, `bid_item_info`.`item_destination`, `bid_item_info`.`user_id_id`, `bid_item_info`.`bid_start_time`, `bid_item_info`.`bid_close_time`, `bid_item_info`.`bid_start_price`, `bid_item_info`.`is_confirm` FROM `bid_item_info` WHERE (`bid_item_info`.`user_id_id` = 'bc6044@gmail.com' AND `bid_item_info`.`is_confirm` = 1) ORDER BY `bid_item_info`.`bid_start_time` ASC; args=(u'bc6044@gmail.com', True)
+[06/Dec/2015 21:43:23] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2014-05-20-17h00m27s153_YhiwEoN.png
+[06/Dec/2015 21:43:23] WARNING [django.request:170] Not Found: /media/item/er_2hFYj8x.png
+[06/Dec/2015 21:43:23] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2013-09-19-14h26m50s100.png
+[06/Dec/2015 21:43:23] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2013-09-19-14h26m50s100_FY8peHL.png
+[06/Dec/2015 21:43:23] WARNING [django.request:170] Not Found: /media/item/er.png
+[06/Dec/2015 21:43:23] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2014-05-20-17h00m27s153_8ISJIqD.png
+[06/Dec/2015 21:43:23] WARNING [django.request:170] Not Found: /media/item/er_2hFYj8x.png
+[06/Dec/2015 21:43:23] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2013-09-19-14h26m50s100_FY8peHL.png
+[06/Dec/2015 21:43:23] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2013-09-19-14h26m50s100.png
+[06/Dec/2015 21:43:23] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2014-05-20-17h00m27s153_YhiwEoN.png
+[06/Dec/2015 21:43:23] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2014-05-20-17h00m27s153_8ISJIqD.png
+[06/Dec/2015 21:43:23] WARNING [django.request:170] Not Found: /media/item/er.png
+[06/Dec/2015 21:43:32] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:43:32] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:43:32] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa' AND `django_session`.`expire_date` > '2015-12-06 16:13:32'); args=('lu1lizxxzwft0znqrdwfj2ovnn40ogoa', u'2015-12-06 16:13:32')
+[06/Dec/2015 21:43:32] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:43:32] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 21:43:32] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa' AND `django_session`.`expire_date` > '2015-12-06 16:13:32'); args=('lu1lizxxzwft0znqrdwfj2ovnn40ogoa', u'2015-12-06 16:13:32')
+[06/Dec/2015 21:43:32] DEBUG [django.db.backends:89] (0.002) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[06/Dec/2015 22:09:07] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 22:09:07] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 22:09:07] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 22:09:07] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 22:09:07] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 22:09:07] DEBUG [django.db.backends:89] (0.000) SHOW FULL TABLES; args=None
+[06/Dec/2015 22:09:07] DEBUG [django.db.backends:89] (0.016) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 22:09:07] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 22:09:07] DEBUG [django.db.backends:89] (0.016) SHOW FULL TABLES; args=None
+[06/Dec/2015 22:09:07] DEBUG [django.db.backends:89] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 22:09:08] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 22:09:08] DEBUG [django.db.backends:89] (0.016) SHOW FULL TABLES; args=None
+[06/Dec/2015 22:09:08] DEBUG [django.db.backends:89] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 22:09:08] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 22:09:09] DEBUG [django.db.backends:89] (0.016) SHOW FULL TABLES; args=None
+[06/Dec/2015 22:09:09] DEBUG [django.db.backends:89] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[06/Dec/2015 22:09:23] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 22:09:23] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 22:09:23] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa' AND `django_session`.`expire_date` > '2015-12-06 16:39:23'); args=('lu1lizxxzwft0znqrdwfj2ovnn40ogoa', u'2015-12-06 16:39:23')
+[06/Dec/2015 22:09:23] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 22:09:23] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[06/Dec/2015 22:09:23] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa' AND `django_session`.`expire_date` > '2015-12-06 16:39:23'); args=('lu1lizxxzwft0znqrdwfj2ovnn40ogoa', u'2015-12-06 16:39:23')
+[06/Dec/2015 22:09:23] DEBUG [django.db.backends:89] (0.001) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[07/Dec/2015 01:09:50] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[07/Dec/2015 01:09:50] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[07/Dec/2015 01:09:50] DEBUG [django.db.backends:89] (0.016) SHOW FULL TABLES; args=None
+[07/Dec/2015 01:09:50] DEBUG [django.db.backends:89] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[07/Dec/2015 01:10:11] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[07/Dec/2015 01:10:11] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[07/Dec/2015 01:10:11] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa' AND `django_session`.`expire_date` > '2015-12-06 19:40:11'); args=('lu1lizxxzwft0znqrdwfj2ovnn40ogoa', u'2015-12-06 19:40:11')
+[07/Dec/2015 01:10:11] DEBUG [django.db.backends:89] (0.001) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[07/Dec/2015 01:10:14] DEBUG [django.db.backends:89] (0.003) SET SQL_AUTO_IS_NULL = 0; args=None
+[07/Dec/2015 01:10:14] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[07/Dec/2015 01:10:14] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa' AND `django_session`.`expire_date` > '2015-12-06 19:40:14'); args=('lu1lizxxzwft0znqrdwfj2ovnn40ogoa', u'2015-12-06 19:40:14')
+[07/Dec/2015 01:10:14] DEBUG [django.db.backends:89] (0.002) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[07/Dec/2015 01:10:14] DEBUG [django.db.backends:89] (0.003) SELECT `bid_item_info`.`id`, `bid_item_info`.`item_name`, `bid_item_info`.`item_type`, `bid_item_info`.`item_info`, `bid_item_info`.`item_img_path`, `bid_item_info`.`item_location`, `bid_item_info`.`item_destination`, `bid_item_info`.`user_id_id`, `bid_item_info`.`bid_start_time`, `bid_item_info`.`bid_close_time`, `bid_item_info`.`bid_start_price`, `bid_item_info`.`is_confirm` FROM `bid_item_info` WHERE (`bid_item_info`.`user_id_id` = 'bc6044@gmail.com' AND `bid_item_info`.`is_confirm` = 1) ORDER BY `bid_item_info`.`bid_start_time` ASC; args=(u'bc6044@gmail.com', True)
+[07/Dec/2015 01:10:15] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2014-05-20-17h00m27s153_YhiwEoN.png
+[07/Dec/2015 01:10:15] WARNING [django.request:170] Not Found: /media/item/er_2hFYj8x.png
+[07/Dec/2015 01:10:15] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2013-09-19-14h26m50s100.png
+[07/Dec/2015 01:10:15] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2013-09-19-14h26m50s100_FY8peHL.png
+[07/Dec/2015 01:10:15] WARNING [django.request:170] Not Found: /media/item/er.png
+[07/Dec/2015 01:10:15] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2014-05-20-17h00m27s153_8ISJIqD.png
+[07/Dec/2015 01:10:15] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2014-05-20-17h00m27s153_YhiwEoN.png
+[07/Dec/2015 01:10:20] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[07/Dec/2015 01:10:20] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[07/Dec/2015 01:10:20] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa' AND `django_session`.`expire_date` > '2015-12-06 19:40:20'); args=('lu1lizxxzwft0znqrdwfj2ovnn40ogoa', u'2015-12-06 19:40:20')
+[07/Dec/2015 01:10:20] DEBUG [django.db.backends:89] (0.001) SELECT `bid_item_info`.`id`, `bid_item_info`.`item_name`, `bid_item_info`.`item_type`, `bid_item_info`.`item_info`, `bid_item_info`.`item_img_path`, `bid_item_info`.`item_location`, `bid_item_info`.`item_destination`, `bid_item_info`.`user_id_id`, `bid_item_info`.`bid_start_time`, `bid_item_info`.`bid_close_time`, `bid_item_info`.`bid_start_price`, `bid_item_info`.`is_confirm` FROM `bid_item_info` WHERE `bid_item_info`.`id` = 19; args=(19,)
+[07/Dec/2015 01:10:20] DEBUG [django.db.backends:89] (0.001) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[07/Dec/2015 01:10:21] DEBUG [django.db.backends:89] (0.145) SELECT `bid_bidding_info`.`id`, `bid_bidding_info`.`item_id_id`, `bid_bidding_info`.`bid_price`, `bid_bidding_info`.`bid_person_id_id`, `bid_bidding_info`.`bidding_date`, `bid_bidding_info`.`is_Exit` FROM `bid_bidding_info` WHERE `bid_bidding_info`.`item_id_id` = 19 ORDER BY `bid_bidding_info`.`bid_price` DESC LIMIT 10; args=(19,)
+[07/Dec/2015 01:10:21] DEBUG [django.db.backends:89] (0.002) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[07/Dec/2015 01:10:21] WARNING [django.request:170] Not Found: /media/item/er_2hFYj8x.png
+[07/Dec/2015 01:10:22] WARNING [django.request:170] Not Found: /media/item/er_2hFYj8x.png
+[07/Dec/2015 01:17:39] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[07/Dec/2015 01:17:40] DEBUG [django.db.backends:89] (0.016) SET SQL_AUTO_IS_NULL = 0; args=None
+[07/Dec/2015 01:17:40] DEBUG [django.db.backends:89] (0.375) SHOW FULL TABLES; args=None
+[07/Dec/2015 01:17:40] DEBUG [django.db.backends:89] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[09/Dec/2015 00:34:19] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 00:34:22] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 00:34:22] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 00:34:23] DEBUG [django.db.backends:89] (1.193) SHOW FULL TABLES; args=None
+[09/Dec/2015 00:34:23] DEBUG [django.db.backends:89] (1.133) SHOW FULL TABLES; args=None
+[09/Dec/2015 00:34:24] DEBUG [django.db.backends:89] (0.431) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[09/Dec/2015 00:34:24] DEBUG [django.db.backends:89] (0.423) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[09/Dec/2015 00:42:38] WARNING [django.request:170] Not Found: /favicon.ico
+[09/Dec/2015 00:42:41] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 00:42:41] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 00:42:41] DEBUG [django.db.backends:89] (0.132) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa' AND `django_session`.`expire_date` > '2015-12-08 19:12:41'); args=('lu1lizxxzwft0znqrdwfj2ovnn40ogoa', u'2015-12-08 19:12:41')
+[09/Dec/2015 00:42:41] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 00:42:41] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 00:42:41] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa' AND `django_session`.`expire_date` > '2015-12-08 19:12:41'); args=('lu1lizxxzwft0znqrdwfj2ovnn40ogoa', u'2015-12-08 19:12:41')
+[09/Dec/2015 00:42:41] DEBUG [django.db.backends:89] (0.013) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[09/Dec/2015 00:42:49] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 00:42:49] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 00:42:49] DEBUG [django.db.backends:89] (0.050) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa' AND `django_session`.`expire_date` > '2015-12-08 19:12:49'); args=('lu1lizxxzwft0znqrdwfj2ovnn40ogoa', u'2015-12-08 19:12:49')
+[09/Dec/2015 00:42:49] DEBUG [django.db.backends:89] (0.070) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 3; args=(3,)
+[09/Dec/2015 00:42:49] DEBUG [django.db.backends:89] (0.033) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE `django_session`.`session_key` = 'lu1lizxxzwft0znqrdwfj2ovnn40ogoa'; args=('lu1lizxxzwft0znqrdwfj2ovnn40ogoa',)
+[09/Dec/2015 00:42:50] DEBUG [django.db.backends:89] (0.436) DELETE FROM `django_session` WHERE `django_session`.`session_key` IN ('lu1lizxxzwft0znqrdwfj2ovnn40ogoa'); args=(u'lu1lizxxzwft0znqrdwfj2ovnn40ogoa',)
+[09/Dec/2015 23:44:24] DEBUG [django.db.backends:89] (0.016) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:44:24] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:44:24] DEBUG [django.db.backends:89] (0.141) SHOW FULL TABLES; args=None
+[09/Dec/2015 23:44:24] DEBUG [django.db.backends:89] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[09/Dec/2015 23:49:10] ERROR [django.request:256] Internal Server Error: /LoginUser/
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\django\core\handlers\base.py", line 151, in get_response
+    % (callback.__module__, view_name))
+ValueError: The view bid.views.LoginUser didn't return an HttpResponse object. It returned None instead.
+[09/Dec/2015 23:49:48] DEBUG [django.db.backends:89] (0.015) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:49:48] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:49:48] DEBUG [django.db.backends:89] (0.000) SHOW FULL TABLES; args=None
+[09/Dec/2015 23:49:48] DEBUG [django.db.backends:89] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[09/Dec/2015 23:51:41] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:51:41] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:51:41] DEBUG [django.db.backends:89] (0.075) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[09/Dec/2015 23:51:42] DEBUG [django.db.backends:89] (0.024) SELECT (1) AS `a` FROM `django_session` WHERE `django_session`.`session_key` = 'pl53qnqpfnmfar1c0zf9tb3tijj25d8b' LIMIT 1; args=(u'pl53qnqpfnmfar1c0zf9tb3tijj25d8b',)
+[09/Dec/2015 23:51:42] DEBUG [django.db.backends:89] (0.102) INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES ('pl53qnqpfnmfar1c0zf9tb3tijj25d8b', 'MGUwNzFmMDUwNTI4ZDEwMmU5N2NlZDNjZWQ2ZTljODdkNDU5N2ZlZDp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSJ9', '2015-12-23 18:21:42'); args=(u'pl53qnqpfnmfar1c0zf9tb3tijj25d8b', u'MGUwNzFmMDUwNTI4ZDEwMmU5N2NlZDNjZWQ2ZTljODdkNDU5N2ZlZDp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSJ9', u'2015-12-23 18:21:42')
+[09/Dec/2015 23:51:42] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE `django_session`.`session_key` = 'pl53qnqpfnmfar1c0zf9tb3tijj25d8b'; args=(u'pl53qnqpfnmfar1c0zf9tb3tijj25d8b',)
+[09/Dec/2015 23:51:42] DEBUG [django.db.backends:89] (0.002) DELETE FROM `django_session` WHERE `django_session`.`session_key` IN ('pl53qnqpfnmfar1c0zf9tb3tijj25d8b'); args=(u'pl53qnqpfnmfar1c0zf9tb3tijj25d8b',)
+[09/Dec/2015 23:51:42] DEBUG [django.db.backends:89] (0.119) UPDATE `auth_user` SET `last_login` = '2015-12-09 18:21:42' WHERE `auth_user`.`id` = 3; args=(u'2015-12-09 18:21:42', 3)
+[09/Dec/2015 23:51:42] DEBUG [django.db.backends:89] (0.197) SELECT `auth_group`.`id`, `auth_group`.`name` FROM `auth_group` INNER JOIN `auth_user_groups` ON ( `auth_group`.`id` = `auth_user_groups`.`group_id` ) WHERE `auth_user_groups`.`user_id` = 3; args=(3,)
+[09/Dec/2015 23:51:42] DEBUG [django.db.backends:89] (0.001) UPDATE `django_session` SET `session_data` = 'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', `expire_date` = '2015-12-23 18:21:42' WHERE `django_session`.`session_key` = 'pl53qnqpfnmfar1c0zf9tb3tijj25d8b'; args=(u'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', u'2015-12-23 18:21:42', u'pl53qnqpfnmfar1c0zf9tb3tijj25d8b')
+[09/Dec/2015 23:51:42] DEBUG [django.db.backends:89] (0.021) INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES ('pl53qnqpfnmfar1c0zf9tb3tijj25d8b', 'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', '2015-12-23 18:21:42'); args=(u'pl53qnqpfnmfar1c0zf9tb3tijj25d8b', u'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', u'2015-12-23 18:21:42')
+[09/Dec/2015 23:51:42] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:51:42] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:51:42] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'pl53qnqpfnmfar1c0zf9tb3tijj25d8b' AND `django_session`.`expire_date` > '2015-12-09 18:21:42'); args=('pl53qnqpfnmfar1c0zf9tb3tijj25d8b', u'2015-12-09 18:21:42')
+[09/Dec/2015 23:51:42] DEBUG [django.db.backends:89] (0.001) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[09/Dec/2015 23:51:48] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:51:48] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:51:48] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'pl53qnqpfnmfar1c0zf9tb3tijj25d8b' AND `django_session`.`expire_date` > '2015-12-09 18:21:48'); args=('pl53qnqpfnmfar1c0zf9tb3tijj25d8b', u'2015-12-09 18:21:48')
+[09/Dec/2015 23:51:49] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:51:49] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:51:49] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'pl53qnqpfnmfar1c0zf9tb3tijj25d8b' AND `django_session`.`expire_date` > '2015-12-09 18:21:48'); args=('pl53qnqpfnmfar1c0zf9tb3tijj25d8b', u'2015-12-09 18:21:48')
+[09/Dec/2015 23:51:49] DEBUG [django.db.backends:89] (0.001) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[09/Dec/2015 23:51:51] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:51:51] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:51:51] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'pl53qnqpfnmfar1c0zf9tb3tijj25d8b' AND `django_session`.`expire_date` > '2015-12-09 18:21:51'); args=('pl53qnqpfnmfar1c0zf9tb3tijj25d8b', u'2015-12-09 18:21:51')
+[09/Dec/2015 23:51:51] DEBUG [django.db.backends:89] (0.001) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[09/Dec/2015 23:51:51] DEBUG [django.db.backends:89] (0.727) SELECT `bid_item_info`.`id`, `bid_item_info`.`item_name`, `bid_item_info`.`item_type`, `bid_item_info`.`item_info`, `bid_item_info`.`item_img_path`, `bid_item_info`.`item_location`, `bid_item_info`.`item_destination`, `bid_item_info`.`user_id_id`, `bid_item_info`.`bid_start_time`, `bid_item_info`.`bid_close_time`, `bid_item_info`.`bid_start_price`, `bid_item_info`.`is_confirm` FROM `bid_item_info` WHERE (`bid_item_info`.`user_id_id` = 'bc6044@gmail.com' AND `bid_item_info`.`is_confirm` = 1) ORDER BY `bid_item_info`.`bid_start_time` ASC; args=(u'bc6044@gmail.com', True)
+[09/Dec/2015 23:51:52] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2014-05-20-17h00m27s153_YhiwEoN.png
+[09/Dec/2015 23:51:52] WARNING [django.request:170] Not Found: /media/item/er_2hFYj8x.png
+[09/Dec/2015 23:51:52] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2013-09-19-14h26m50s100.png
+[09/Dec/2015 23:51:52] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2013-09-19-14h26m50s100_FY8peHL.png
+[09/Dec/2015 23:51:52] WARNING [django.request:170] Not Found: /media/item/er.png
+[09/Dec/2015 23:51:52] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2014-05-20-17h00m27s153_8ISJIqD.png
+[09/Dec/2015 23:51:52] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2014-05-20-17h00m27s153_YhiwEoN.png
+[09/Dec/2015 23:51:52] WARNING [django.request:170] Not Found: /media/item/er_2hFYj8x.png
+[09/Dec/2015 23:51:52] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2013-09-19-14h26m50s100_FY8peHL.png
+[09/Dec/2015 23:51:52] WARNING [django.request:170] Not Found: /media/item/vlcsnap-2013-09-19-14h26m50s100.png
+[09/Dec/2015 23:51:56] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:51:56] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:51:56] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'pl53qnqpfnmfar1c0zf9tb3tijj25d8b' AND `django_session`.`expire_date` > '2015-12-09 18:21:55'); args=('pl53qnqpfnmfar1c0zf9tb3tijj25d8b', u'2015-12-09 18:21:55')
+[09/Dec/2015 23:51:56] DEBUG [django.db.backends:89] (0.001) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 3; args=(3,)
+[09/Dec/2015 23:51:56] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE `django_session`.`session_key` = 'pl53qnqpfnmfar1c0zf9tb3tijj25d8b'; args=('pl53qnqpfnmfar1c0zf9tb3tijj25d8b',)
+[09/Dec/2015 23:51:56] DEBUG [django.db.backends:89] (0.006) DELETE FROM `django_session` WHERE `django_session`.`session_key` IN ('pl53qnqpfnmfar1c0zf9tb3tijj25d8b'); args=(u'pl53qnqpfnmfar1c0zf9tb3tijj25d8b',)
+[09/Dec/2015 23:52:18] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:52:18] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:52:18] DEBUG [django.db.backends:89] (0.001) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[09/Dec/2015 23:52:18] DEBUG [django.db.backends:89] (0.001) SELECT (1) AS `a` FROM `django_session` WHERE `django_session`.`session_key` = '285o985qc6zkiiqb4jdsb9hfjxcbpf0q' LIMIT 1; args=(u'285o985qc6zkiiqb4jdsb9hfjxcbpf0q',)
+[09/Dec/2015 23:52:18] DEBUG [django.db.backends:89] (0.014) INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES ('285o985qc6zkiiqb4jdsb9hfjxcbpf0q', 'MGUwNzFmMDUwNTI4ZDEwMmU5N2NlZDNjZWQ2ZTljODdkNDU5N2ZlZDp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSJ9', '2015-12-23 18:22:18'); args=(u'285o985qc6zkiiqb4jdsb9hfjxcbpf0q', u'MGUwNzFmMDUwNTI4ZDEwMmU5N2NlZDNjZWQ2ZTljODdkNDU5N2ZlZDp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSJ9', u'2015-12-23 18:22:18')
+[09/Dec/2015 23:52:18] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE `django_session`.`session_key` = '285o985qc6zkiiqb4jdsb9hfjxcbpf0q'; args=(u'285o985qc6zkiiqb4jdsb9hfjxcbpf0q',)
+[09/Dec/2015 23:52:18] DEBUG [django.db.backends:89] (0.002) DELETE FROM `django_session` WHERE `django_session`.`session_key` IN ('285o985qc6zkiiqb4jdsb9hfjxcbpf0q'); args=(u'285o985qc6zkiiqb4jdsb9hfjxcbpf0q',)
+[09/Dec/2015 23:52:18] DEBUG [django.db.backends:89] (0.047) UPDATE `auth_user` SET `last_login` = '2015-12-09 18:22:18' WHERE `auth_user`.`id` = 3; args=(u'2015-12-09 18:22:18', 3)
+[09/Dec/2015 23:52:19] DEBUG [django.db.backends:89] (0.002) SELECT `auth_group`.`id`, `auth_group`.`name` FROM `auth_group` INNER JOIN `auth_user_groups` ON ( `auth_group`.`id` = `auth_user_groups`.`group_id` ) WHERE `auth_user_groups`.`user_id` = 3; args=(3,)
+[09/Dec/2015 23:52:19] DEBUG [django.db.backends:89] (0.001) UPDATE `django_session` SET `session_data` = 'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', `expire_date` = '2015-12-23 18:22:19' WHERE `django_session`.`session_key` = '285o985qc6zkiiqb4jdsb9hfjxcbpf0q'; args=(u'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', u'2015-12-23 18:22:19', u'285o985qc6zkiiqb4jdsb9hfjxcbpf0q')
+[09/Dec/2015 23:52:19] DEBUG [django.db.backends:89] (0.001) INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES ('285o985qc6zkiiqb4jdsb9hfjxcbpf0q', 'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', '2015-12-23 18:22:19'); args=(u'285o985qc6zkiiqb4jdsb9hfjxcbpf0q', u'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', u'2015-12-23 18:22:19')
+[09/Dec/2015 23:52:19] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:52:19] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:52:19] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = '285o985qc6zkiiqb4jdsb9hfjxcbpf0q' AND `django_session`.`expire_date` > '2015-12-09 18:22:19'); args=('285o985qc6zkiiqb4jdsb9hfjxcbpf0q', u'2015-12-09 18:22:19')
+[09/Dec/2015 23:52:19] DEBUG [django.db.backends:89] (0.002) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[09/Dec/2015 23:52:30] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:52:30] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:52:30] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = '285o985qc6zkiiqb4jdsb9hfjxcbpf0q' AND `django_session`.`expire_date` > '2015-12-09 18:22:30'); args=('285o985qc6zkiiqb4jdsb9hfjxcbpf0q', u'2015-12-09 18:22:30')
+[09/Dec/2015 23:52:30] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:52:31] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:52:31] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = '285o985qc6zkiiqb4jdsb9hfjxcbpf0q' AND `django_session`.`expire_date` > '2015-12-09 18:22:30'); args=('285o985qc6zkiiqb4jdsb9hfjxcbpf0q', u'2015-12-09 18:22:30')
+[09/Dec/2015 23:52:31] DEBUG [django.db.backends:89] (0.002) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[09/Dec/2015 23:52:38] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:52:38] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:52:38] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = '285o985qc6zkiiqb4jdsb9hfjxcbpf0q' AND `django_session`.`expire_date` > '2015-12-09 18:22:38'); args=('285o985qc6zkiiqb4jdsb9hfjxcbpf0q', u'2015-12-09 18:22:38')
+[09/Dec/2015 23:52:38] DEBUG [django.db.backends:89] (0.001) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 3; args=(3,)
+[09/Dec/2015 23:52:38] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE `django_session`.`session_key` = '285o985qc6zkiiqb4jdsb9hfjxcbpf0q'; args=('285o985qc6zkiiqb4jdsb9hfjxcbpf0q',)
+[09/Dec/2015 23:52:38] DEBUG [django.db.backends:89] (0.574) DELETE FROM `django_session` WHERE `django_session`.`session_key` IN ('285o985qc6zkiiqb4jdsb9hfjxcbpf0q'); args=(u'285o985qc6zkiiqb4jdsb9hfjxcbpf0q',)
+[09/Dec/2015 23:52:49] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:52:49] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:52:49] DEBUG [django.db.backends:89] (0.001) SELECT (1) AS `a` FROM `django_session` WHERE `django_session`.`session_key` = '3vpcu8opxpnw2w2hkla2ztc1yk5c0tb1' LIMIT 1; args=(u'3vpcu8opxpnw2w2hkla2ztc1yk5c0tb1',)
+[09/Dec/2015 23:52:49] DEBUG [django.db.backends:89] (0.072) INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES ('3vpcu8opxpnw2w2hkla2ztc1yk5c0tb1', 'MWJhY2E1NzkwZTRiZDQ2NDJmYTFlYzZiZDNjNTgzMjFhYmZjMjJiMzp7fQ==', '2015-12-23 18:22:49'); args=(u'3vpcu8opxpnw2w2hkla2ztc1yk5c0tb1', u'MWJhY2E1NzkwZTRiZDQ2NDJmYTFlYzZiZDNjNTgzMjFhYmZjMjJiMzp7fQ==', u'2015-12-23 18:22:49')
+[09/Dec/2015 23:56:33] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:56:33] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[09/Dec/2015 23:56:33] DEBUG [django.db.backends:89] (0.016) SHOW FULL TABLES; args=None
+[09/Dec/2015 23:56:33] DEBUG [django.db.backends:89] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[10/Dec/2015 00:05:39] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:05:39] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:05:39] DEBUG [django.db.backends:89] (0.016) SHOW FULL TABLES; args=None
+[10/Dec/2015 00:05:39] DEBUG [django.db.backends:89] (0.016) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[10/Dec/2015 00:17:56] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:17:56] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:17:56] DEBUG [django.db.backends:89] (0.001) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'dsfd'; args=(u'dsfd',)
+[10/Dec/2015 00:17:57] ERROR [django.request:256] Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sumit\workspace\el\Djngo\bid\views.py", line 87, in Login
+    return HttpResponse(LoginUser(request,Message=True))
+TypeError: LoginUser() got an unexpected keyword argument 'Message'
+[10/Dec/2015 00:18:46] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:18:47] DEBUG [django.db.backends:89] (0.002) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:18:47] DEBUG [django.db.backends:89] (0.010) SHOW FULL TABLES; args=None
+[10/Dec/2015 00:18:47] DEBUG [django.db.backends:89] (0.002) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[10/Dec/2015 00:18:49] ERROR [django.request:256] Internal Server Error: /LoginUser/
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sumit\workspace\el\Djngo\bid\views.py", line 93, in LoginUser
+    if message is None:
+NameError: global name 'message' is not defined
+[10/Dec/2015 00:19:36] ERROR [django.request:256] Internal Server Error: /LoginUser/
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sumit\workspace\el\Djngo\bid\views.py", line 93, in LoginUser
+    if message is None:
+NameError: global name 'message' is not defined
+[10/Dec/2015 00:19:53] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:19:54] DEBUG [django.db.backends:89] (0.002) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:19:54] DEBUG [django.db.backends:89] (0.009) SHOW FULL TABLES; args=None
+[10/Dec/2015 00:19:54] DEBUG [django.db.backends:89] (0.002) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[10/Dec/2015 00:19:59] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:19:59] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:19:59] DEBUG [django.db.backends:89] (0.002) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'dsf'; args=(u'dsf',)
+[10/Dec/2015 00:20:05] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:20:06] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:20:06] DEBUG [django.db.backends:89] (0.001) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'dsgfgfd'; args=(u'dsgfgfd',)
+[10/Dec/2015 00:23:07] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:23:08] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:23:08] DEBUG [django.db.backends:89] (0.005) SHOW FULL TABLES; args=None
+[10/Dec/2015 00:23:08] DEBUG [django.db.backends:89] (0.002) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[10/Dec/2015 00:23:09] ERROR [django.request:256] Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\django\core\handlers\base.py", line 151, in get_response
+    % (callback.__module__, view_name))
+ValueError: The view bid.views.Login didn't return an HttpResponse object. It returned None instead.
+[10/Dec/2015 00:23:13] ERROR [django.request:256] Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\django\core\handlers\base.py", line 151, in get_response
+    % (callback.__module__, view_name))
+ValueError: The view bid.views.Login didn't return an HttpResponse object. It returned None instead.
+[10/Dec/2015 00:23:48] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:23:49] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:23:49] DEBUG [django.db.backends:89] (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'df'; args=(u'df',)
+[10/Dec/2015 00:23:55] ERROR [django.request:256] Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\django\core\handlers\base.py", line 151, in get_response
+    % (callback.__module__, view_name))
+ValueError: The view bid.views.Login didn't return an HttpResponse object. It returned None instead.
+[10/Dec/2015 00:27:18] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:27:18] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 00:27:18] DEBUG [django.db.backends:89] (0.006) SHOW FULL TABLES; args=None
+[10/Dec/2015 00:27:18] DEBUG [django.db.backends:89] (0.002) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[10/Dec/2015 01:17:27] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:17:27] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:17:27] DEBUG [django.db.backends:89] (0.002) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[10/Dec/2015 01:17:27] DEBUG [django.db.backends:89] (0.001) SELECT (1) AS `a` FROM `django_session` WHERE `django_session`.`session_key` = 'a8x7hz562aaska81ftjo7y0vsvwfghpz' LIMIT 1; args=(u'a8x7hz562aaska81ftjo7y0vsvwfghpz',)
+[10/Dec/2015 01:17:27] DEBUG [django.db.backends:89] (0.032) INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES ('a8x7hz562aaska81ftjo7y0vsvwfghpz', 'MGUwNzFmMDUwNTI4ZDEwMmU5N2NlZDNjZWQ2ZTljODdkNDU5N2ZlZDp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSJ9', '2015-12-23 19:47:27'); args=(u'a8x7hz562aaska81ftjo7y0vsvwfghpz', u'MGUwNzFmMDUwNTI4ZDEwMmU5N2NlZDNjZWQ2ZTljODdkNDU5N2ZlZDp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSJ9', u'2015-12-23 19:47:27')
+[10/Dec/2015 01:17:27] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE `django_session`.`session_key` = 'a8x7hz562aaska81ftjo7y0vsvwfghpz'; args=(u'a8x7hz562aaska81ftjo7y0vsvwfghpz',)
+[10/Dec/2015 01:17:27] DEBUG [django.db.backends:89] (0.027) DELETE FROM `django_session` WHERE `django_session`.`session_key` IN ('a8x7hz562aaska81ftjo7y0vsvwfghpz'); args=(u'a8x7hz562aaska81ftjo7y0vsvwfghpz',)
+[10/Dec/2015 01:17:27] DEBUG [django.db.backends:89] (0.002) UPDATE `auth_user` SET `last_login` = '2015-12-09 19:47:27' WHERE `auth_user`.`id` = 3; args=(u'2015-12-09 19:47:27', 3)
+[10/Dec/2015 01:17:27] DEBUG [django.db.backends:89] (0.001) SELECT `auth_group`.`id`, `auth_group`.`name` FROM `auth_group` INNER JOIN `auth_user_groups` ON ( `auth_group`.`id` = `auth_user_groups`.`group_id` ) WHERE `auth_user_groups`.`user_id` = 3; args=(3,)
+[10/Dec/2015 01:17:27] DEBUG [django.db.backends:89] (0.001) UPDATE `django_session` SET `session_data` = 'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', `expire_date` = '2015-12-23 19:47:27' WHERE `django_session`.`session_key` = 'a8x7hz562aaska81ftjo7y0vsvwfghpz'; args=(u'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', u'2015-12-23 19:47:27', u'a8x7hz562aaska81ftjo7y0vsvwfghpz')
+[10/Dec/2015 01:17:27] DEBUG [django.db.backends:89] (0.001) INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES ('a8x7hz562aaska81ftjo7y0vsvwfghpz', 'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', '2015-12-23 19:47:27'); args=(u'a8x7hz562aaska81ftjo7y0vsvwfghpz', u'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', u'2015-12-23 19:47:27')
+[10/Dec/2015 01:17:27] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:17:27] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:17:27] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'a8x7hz562aaska81ftjo7y0vsvwfghpz' AND `django_session`.`expire_date` > '2015-12-09 19:47:27'); args=('a8x7hz562aaska81ftjo7y0vsvwfghpz', u'2015-12-09 19:47:27')
+[10/Dec/2015 01:17:27] DEBUG [django.db.backends:89] (0.001) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[10/Dec/2015 01:20:08] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:20:09] DEBUG [django.db.backends:89] (0.002) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:20:09] DEBUG [django.db.backends:89] (0.316) SHOW FULL TABLES; args=None
+[10/Dec/2015 01:20:09] DEBUG [django.db.backends:89] (0.001) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[10/Dec/2015 01:20:15] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:20:15] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:20:15] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'a8x7hz562aaska81ftjo7y0vsvwfghpz' AND `django_session`.`expire_date` > '2015-12-09 19:50:14'); args=('a8x7hz562aaska81ftjo7y0vsvwfghpz', u'2015-12-09 19:50:14')
+[10/Dec/2015 01:20:15] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:20:15] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:20:15] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'a8x7hz562aaska81ftjo7y0vsvwfghpz' AND `django_session`.`expire_date` > '2015-12-09 19:50:15'); args=('a8x7hz562aaska81ftjo7y0vsvwfghpz', u'2015-12-09 19:50:15')
+[10/Dec/2015 01:20:15] DEBUG [django.db.backends:89] (0.001) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[10/Dec/2015 01:20:21] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:20:21] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:20:21] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 'a8x7hz562aaska81ftjo7y0vsvwfghpz' AND `django_session`.`expire_date` > '2015-12-09 19:50:20'); args=('a8x7hz562aaska81ftjo7y0vsvwfghpz', u'2015-12-09 19:50:20')
+[10/Dec/2015 01:20:21] DEBUG [django.db.backends:89] (0.002) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 3; args=(3,)
+[10/Dec/2015 01:20:21] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE `django_session`.`session_key` = 'a8x7hz562aaska81ftjo7y0vsvwfghpz'; args=('a8x7hz562aaska81ftjo7y0vsvwfghpz',)
+[10/Dec/2015 01:20:21] DEBUG [django.db.backends:89] (0.009) DELETE FROM `django_session` WHERE `django_session`.`session_key` IN ('a8x7hz562aaska81ftjo7y0vsvwfghpz'); args=(u'a8x7hz562aaska81ftjo7y0vsvwfghpz',)
+[10/Dec/2015 01:55:52] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:55:52] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:55:52] DEBUG [django.db.backends:89] (0.002) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[10/Dec/2015 01:55:52] DEBUG [django.db.backends:89] (0.001) SELECT (1) AS `a` FROM `django_session` WHERE `django_session`.`session_key` = '904ui34igoruds5kzqy6g084owtdhuju' LIMIT 1; args=(u'904ui34igoruds5kzqy6g084owtdhuju',)
+[10/Dec/2015 01:55:52] DEBUG [django.db.backends:89] (0.021) INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES ('904ui34igoruds5kzqy6g084owtdhuju', 'MGUwNzFmMDUwNTI4ZDEwMmU5N2NlZDNjZWQ2ZTljODdkNDU5N2ZlZDp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSJ9', '2015-12-23 20:25:52'); args=(u'904ui34igoruds5kzqy6g084owtdhuju', u'MGUwNzFmMDUwNTI4ZDEwMmU5N2NlZDNjZWQ2ZTljODdkNDU5N2ZlZDp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSJ9', u'2015-12-23 20:25:52')
+[10/Dec/2015 01:55:52] DEBUG [django.db.backends:89] (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE `django_session`.`session_key` = '904ui34igoruds5kzqy6g084owtdhuju'; args=(u'904ui34igoruds5kzqy6g084owtdhuju',)
+[10/Dec/2015 01:55:52] DEBUG [django.db.backends:89] (0.009) DELETE FROM `django_session` WHERE `django_session`.`session_key` IN ('904ui34igoruds5kzqy6g084owtdhuju'); args=(u'904ui34igoruds5kzqy6g084owtdhuju',)
+[10/Dec/2015 01:55:53] DEBUG [django.db.backends:89] (0.047) UPDATE `auth_user` SET `last_login` = '2015-12-09 20:25:52' WHERE `auth_user`.`id` = 3; args=(u'2015-12-09 20:25:52', 3)
+[10/Dec/2015 01:55:53] DEBUG [django.db.backends:89] (0.002) SELECT `auth_group`.`id`, `auth_group`.`name` FROM `auth_group` INNER JOIN `auth_user_groups` ON ( `auth_group`.`id` = `auth_user_groups`.`group_id` ) WHERE `auth_user_groups`.`user_id` = 3; args=(3,)
+[10/Dec/2015 01:55:53] DEBUG [django.db.backends:89] (0.001) UPDATE `django_session` SET `session_data` = 'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', `expire_date` = '2015-12-23 20:25:53' WHERE `django_session`.`session_key` = '904ui34igoruds5kzqy6g084owtdhuju'; args=(u'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', u'2015-12-23 20:25:53', u'904ui34igoruds5kzqy6g084owtdhuju')
+[10/Dec/2015 01:55:53] DEBUG [django.db.backends:89] (0.001) INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES ('904ui34igoruds5kzqy6g084owtdhuju', 'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', '2015-12-23 20:25:53'); args=(u'904ui34igoruds5kzqy6g084owtdhuju', u'MjE1NDdiZGY0N2YyN2M1MDAzMjM1NDQzODM2MDQyMTZmNjVlZWZhYTp7InVzZXJuYW1lIjoiYmM2MDQ0QGdtYWlsLmNvbSIsInVzZXJ0eXBlIjoiVXNlciIsIl9hdXRoX3VzZXJfaGFzaCI6IjAyMTY1NDg1ZGMzZmNmMjI4NWZiNzBiMDM2MWNhYjUxM2M4ZDYxNDkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=', u'2015-12-23 20:25:53')
+[10/Dec/2015 01:55:53] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:55:53] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:55:53] DEBUG [django.db.backends:89] (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = '904ui34igoruds5kzqy6g084owtdhuju' AND `django_session`.`expire_date` > '2015-12-09 20:25:53'); args=('904ui34igoruds5kzqy6g084owtdhuju', u'2015-12-09 20:25:53')
+[10/Dec/2015 01:55:53] DEBUG [django.db.backends:89] (0.002) SELECT `bid_user_info`.`user_name`, `bid_user_info`.`name`, `bid_user_info`.`mobile_number`, `bid_user_info`.`email_id`, `bid_user_info`.`address` FROM `bid_user_info` WHERE `bid_user_info`.`user_name` = 'bc6044@gmail.com'; args=(u'bc6044@gmail.com',)
+[10/Dec/2015 01:57:30] DEBUG [django.db.backends:89] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:57:31] DEBUG [django.db.backends:89] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[10/Dec/2015 01:57:31] DEBUG [django.db.backends:89] (0.008) SHOW FULL TABLES; args=None
+[10/Dec/2015 01:57:31] DEBUG [django.db.backends:89] (0.004) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
